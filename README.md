@@ -1,10 +1,10 @@
-# adblock-detect
-# alert-popup-box
-# browser-detect
-# cookie-consent-box
-# custom-captcha
-# darg and drop list
-# detect-location
-# digital-clock
-# drag and drop browse file
-# draggable div
+# Adblock-detect
+# Alert-popup-box
+# Browser-detect
+# Cookie-consent-box
+# Custom-captcha
+# Darg and drop list
+# Detect-location
+# Digital-clock
+# Drag and drop browse file
+# Draggable div
